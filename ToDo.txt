@@ -1,0 +1,5 @@
+ToDo
+1. Create 4 variable k-map programme.
+2. Migrate to web app.
+
+
